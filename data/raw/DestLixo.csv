@@ -1,0 +1,54 @@
+﻿Estados e Capitais;Região;UF;Pessoas;Coletado diretamente por serviço de limpeza;Coletado em caçamba de serviço de limpeza;Queimado (na propriedade);Enterrado (na propriedade) ;Jogado em terreno baldio ou logradouro  ;Outro destino
+Rondônia;Norte;RO;1841;78.1;3.4;16;1.8;0.4;0.3
+Porto Velho;Norte;RO;567;96.9;1;2;0.1;;
+Acre;Norte;AC;914;67.8;13.8;16.2;1.1;1.1;0.1
+Rio Branco;Norte;AC;431;88.7;8.6;2.1;0;0.5;
+Amazonas;Norte;AM;4221;80.2;5.1;13.6;0.1;0.9;0.1
+Manaus;Norte;AM;2327;97.2;2.1;0.3;0;0.4;
+Roraima;Norte;RR;610;86.6;1.1;10.3;0.5;0.9;0.5
+Boa Vista;Norte;RR;435;98.1;0.9;0.5;0.1;0.4;0.1
+Pará;Norte;PA;8902;74.2;4.1;20.6;0.4;0.6;0.1
+Belém;Norte;PA;1520;98.2;1.3;0.3;0.1;0.1;
+Amapá;Norte;AM;900;86.1;7.9;5;0;0.6;0.4
+Macapá;Norte;AM;541;98.3;0.3;0.6;0;0.9;
+Tocantins;Norte;TO;1627;79.6;8.4;10.2;0.7;0.6;0.5
+Palmas;Norte;TO;327;82.8;15.2;0.8;0.2;0.2;0.7
+Maranhão;Nordeste;MA;7192;60.7;12.6;24.6;0.3;1.7;0.1
+São Luís;Nordeste;MA;1129;99.2;0.3;0.5;;;
+Piauí;Nordeste;PI;3303;73.3;1.1;23.2;0.3;1.2;0.8
+Teresina;Nordeste;PI;877;94.9;;1.8;0.1;0.1;3.1
+Ceará;Nordeste;CE;9339;79.3;7.8;12.1;0.2;0.5;0.1
+Fortaleza;Nordeste;CE;2726;99.8;0.1;;;0;0.1
+Rio Grande do Norte;Nordeste;RN;3612;83;9;7.3;0.1;0.4;0.1
+Natal;Nordeste;RN;909;100;;;;;
+Paraíba;Nordeste;PA;4077;77.6;5.6;16.1;0.2;0.5;0.1
+João Pessoa;Nordeste;PA;842;96.5;3;0.2;0;0.3;
+Pernambuco;Nordeste;PE;9727;79.6;6.5;11.6;0.1;2.3;
+Recife;Nordeste;PE;1675;99.2;0.5;;0;0.3;
+Alagoas;Nordeste;AL;3384;81.9;6.7;10.2;0.2;0.9;0.1
+Maceió;Nordeste;AL;1044;93.4;5.4;;0;1.2;
+Sergipe;Nordeste;SE;2376;90.3;2.2;6.8;0.1;0.5;
+Aracaju;Nordeste;SE;687;96.7;3.3;;;;
+Bahia;Nordeste;BA;15065;70.9;12.6;15.2;0.2;0.8;0.2
+Salvador;Nordeste;BA;2925;70;29;0.2;0;0.6;0.2
+Minas Gerais;Sudeste;MG;21624;88.7;4.5;6.4;0.1;0.1;0.2
+Belo Horizonte;Sudeste;MG;2547;98.9;1.1;;;;
+Espírito Santo;Sudeste;ES;4190;89.8;4.5;5.5;0.1;0;0.1
+Vitória;Sudeste;ES;386;98.5;1.5;;;;
+Rio de Janeiro;Sudeste;RJ;17644;91.1;7.8;0.6;;0.5;
+Rio de Janeiro Capital;Sudeste;RJ;6827;92.6;6.9;0.1;;0.4;
+São Paulo;Sudeste;SP;47327;92.5;6.6;0.7;;0;0.2
+São Paulo Capital;Sudeste;SP;12531;93.9;6;0.1;;0;0
+Paraná;Sul;PR;11738;90.6;4.4;4.1;0.5;0;0.4
+Curitiba;Sul;PR;1992;94.4;5.6;0;0;0;0
+Santa Catarina;Sul;SC;7492;90.1;6.5;2.6;0.4;0.1;0.3
+Florianópolis;Sul;SC;531;83;16.6;0.2;0;0;0.2
+Rio Grande do Sul;Sul;RS;11528;89.2;7.3;2.6;0.6;0.1;0.3
+Porto Alegre;Sul;RS;1500;92.9;7.1;0;0;0;0
+Mato Grosso do Sul;Centro-Oeste;MS;2824;90.7;1.7;6.1;1;0;0.4
+Campo Grande;Centro-Oeste;MS;935;99;0.6;0.3;0.1;0;0
+Mato Grosso;Centro-Oeste;MT;3590;87.7;2.8;7.1;1.3;0.2;0.9
+Cuiabá;Centro-Oeste;MT;633;95.9;0;3;0.4;0.4;0.4
+Goiás;Centro-Oeste;GO;7388;93.9;1.6;3.6;0.3;0.1;0.5
+Goiânia;Centro-Oeste;GO;1593;99.4;0.6;0.1;;;
+Distrito Federal Brasília;Centro-Oeste;DF;3168;92.6;6.8;0.4;0.1;;
